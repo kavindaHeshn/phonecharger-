@@ -22,7 +22,7 @@
   background: black;
   position: relative;
   margin: 0 auto;
-  border: 40px solid silver;
+  border: 4px solid silver;
   border-radius: 18px;
 }
 
@@ -47,17 +47,17 @@
   }
   50% {
     height: 50%;
-    background: yellow;
+    background: rgb(179, 255, 0);
 
   }
   75% {
     height: 75%;
-    background: #d7fc03;
+    background: #6b7c07;
 
   }
   100% {
     height: 100%;
-    background: rgb(0, 255, 0);
+    background: rgb(9, 245, 68);
 
   }
 }

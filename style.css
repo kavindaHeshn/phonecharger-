@@ -11,7 +11,7 @@
   height: 10px;
   background-color: black;
   margin: 0 auto;
-  border: 3px solid silver;
+  border: 3px solid rgb(18, 211, 66);
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
 }
